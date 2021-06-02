@@ -1,0 +1,4 @@
+.nextflow.log
+.sops.yaml
+secrets.yaml
+templates/secret.yaml
